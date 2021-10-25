@@ -1,7 +1,7 @@
 const linksSocialMedia = {
   github: 'DiasVitoria',
   instagram: 'viimarto',
-  linkedin: 'in/victoria-dias-ab7469208/'
+  linkedin: 'in/DiasVictoria/'
 }
 
 function changeSocialMediaLinks() {
